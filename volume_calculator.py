@@ -52,5 +52,3 @@ while True:
         sys.exit('Program Stopped!')
 
         break
-    else:
-        print("Invalid Input")
