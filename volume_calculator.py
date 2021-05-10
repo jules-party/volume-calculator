@@ -24,10 +24,6 @@ def print_titles():
     ~~~~~~~~~~~~~~~~~~~~~
 
         """)
-    print("""The Else statement is broken for the cone.
-    So you will have two 'turns' or infinite turns if you keep choosing cone.
-    Just ignore the 'Invalid Input' message. -Crue
-        """)
 print_titles()
 
 while True:
