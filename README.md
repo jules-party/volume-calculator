@@ -7,5 +7,12 @@
 
 <p>When the cmd window opens you want to type in "python volume_calculator.py" this will run the program! </p>
 
+## MODULES TO INSTALL ##
+<p>Make sure to install Fraction, and colorama</p>
+
+<p>pip install fraction</p>
+
+<p>pip install colorama</p>
+
 ## CREDITS ##
 <p>crue-ton</p>
