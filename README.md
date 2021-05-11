@@ -3,8 +3,7 @@
 
 <p>After you have finished downloading Python then you will need to unzip the zipped folder.</p>
 
-<p>When you unzip it you want to open it in cmd, to do this watch this video and go to around 50 seconds: </p>
-<iframe width="1904" height="769" src="https://www.youtube.com/embed/bgSSJQolR0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>When you unzip it you want to open it in cmd, to do this watch this video: https://youtu.be/bgSSJQolR0E</p>
 
 <p>When the cmd window opens you want to type in "python volume_calculator.py" this will run the program! </p>
 
