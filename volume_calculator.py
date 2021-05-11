@@ -1,3 +1,4 @@
+from colorama import Fore, init
 import fractions
 import sys
 
@@ -14,16 +15,17 @@ def sphere(x, y):
 
 def print_titles():
 
-    print("""
-    ~~~~~~~~~~~~~~~~~~~~~
-    1. Cylinder
-    2. Cone
-    3. Sphere
-    ~~~~~~~~~~~~~~~~~~~~~
-    π = 3.14
-    ~~~~~~~~~~~~~~~~~~~~~
+    print(f"""
+    {Fore.BLUE}~~~~~~~~~~~~~~~~~~~~~
+    {Fore.CYAN}1. Cylinder
+    {Fore.CYAN}2. Cone
+    {Fore.CYAN}3. Sphere
+    {Fore.BLUE}~~~~~~~~~~~~~~~~~~~~~
+    {Fore.CYAN}π = 3.14
+    {Fore.BLUE}~~~~~~~~~~~~~~~~~~~~~
 
         """)
+init()
 print_titles()
 
 while True:
