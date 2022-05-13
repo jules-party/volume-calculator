@@ -20,6 +20,7 @@ def print_titles():
     {Fore.CYAN}1. Cylinder
     {Fore.CYAN}2. Cone
     {Fore.CYAN}3. Sphere
+    {Fore.CYAN}4. Exit
     {Fore.BLUE}~~~~~~~~~~~~~~~~~~~~~
     {Fore.CYAN}π = 3.14
     {Fore.BLUE}~~~~~~~~~~~~~~~~~~~~~
@@ -29,7 +30,7 @@ init()
 print_titles()
 
 while True:
-    choice = input("Enter choice(1/2/3/4) 4 = End Program: ")
+    choice = input("Enter choice(1/2/3/4): ")
 
     if choice in ('1'):
         num1 = float(input("Enter your radius: "))
